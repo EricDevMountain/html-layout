@@ -1,0 +1,59 @@
+body {
+}
+
+.one {
+  width: 100%;
+  height: 14.2vh;
+  background-color: grey;
+  padding-top: 22px;
+  padding-left: 22px;
+}
+
+.one-one {
+  width: 70px;
+  height: 70px;
+  background-color: blue;
+}
+
+.two {
+  width: 100%;
+  height: 28.4vh;
+  background-color: whitesmoke;
+  text-align: center;
+  display: inline-block;
+  vertical-align: middle;
+}
+.two-one {
+  padding-top: 50px;
+  padding-left: 35px;
+  padding-right: 35px;
+  text-align: left;
+  display: inline-block;
+  vertical-align: middle;
+  font-size: 20px;
+  color: darkgray;
+}
+
+.three {
+  width: 100%;
+  height: 14.2vh;
+  background-color: blue;
+}
+
+.four {
+  width: 100%;
+  height: 14.2vh;
+  background-color: turquoise;
+}
+
+.five {
+  width: 100%;
+  height: 14.2vh;
+  background-color: green;
+}
+
+.six {
+  width: 100%;
+  height: 14.2vh;
+  background-color: greenyellow;
+}
